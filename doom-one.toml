@@ -9,7 +9,7 @@
 "ui.virtual.ruler" = { bg = "bg_highlight" }
 
 # Markdown Highlighting
-"markup.raw" = { fg = "magenta", bg = "bg" } 
+"markup.raw" = { fg = "blue", bg = "bg" } 
 "markup.raw.inline" = { fg = "orange" } 
 "markup.heading.1" = { fg = "#E99BEA", bg = "#4F4258"}
 "markup.heading.2" = { fg = "#51AFEF", bg = "#2F4456" }
